@@ -13670,3 +13670,10 @@ Entries:
   id: 1513
   time: '2025-11-05T12:56:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2560
+- author: Avalon-Proto
+  changes:
+    - type: Tweak
+      message: Borer hour requirement increased, 10=>50
+  id: 1514
+  time: '2025-11-07T00:06:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2569
