@@ -14076,3 +14076,10 @@ Entries:
   id: 1557
   time: '2025-11-12T01:29:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2608
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: Advanced laser drills can no longer be re-anchored once loose.
+  id: 1558
+  time: '2025-11-12T18:36:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2612
