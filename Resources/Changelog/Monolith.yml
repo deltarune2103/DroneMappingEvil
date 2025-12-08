@@ -14752,3 +14752,12 @@ Entries:
   id: 1636
   time: '2025-12-07T21:07:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2761
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Loadout acquisition of SVS (15000) and Mosin (5000) by mercenaries is
+        now possible. 7.62×54mmR mag box (1000) included.
+  id: 1637
+  time: '2025-12-08T20:57:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2770
