@@ -15003,3 +15003,10 @@ Entries:
   id: 1663
   time: '2025-12-17T23:47:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2813
+- author: thoughtlessuser
+  changes:
+    - type: Fix
+      message: Fixed sprite issue with CV-67 inhands!
+  id: 1664
+  time: '2025-12-17T23:48:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2812
