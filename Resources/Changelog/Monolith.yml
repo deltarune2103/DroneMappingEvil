@@ -15210,3 +15210,10 @@ Entries:
   id: 1687
   time: '2025-12-27T21:06:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2861
+- author: Avalon-Proto
+  changes:
+    - type: Tweak
+      message: Viz's sabre now has an 80% reflect while the power attack is prepped.
+  id: 1688
+  time: '2025-12-27T21:06:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2856
