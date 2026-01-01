@@ -15624,3 +15624,12 @@ Entries:
   id: 1734
   time: '2026-01-01T19:16:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2854
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Added new security capital mothership - Ravager.
+    - type: Remove
+      message: Arachnid has been removed. Fly farewell, friend.
+  id: 1735
+  time: '2026-01-01T19:20:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2684
