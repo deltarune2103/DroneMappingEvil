@@ -15492,3 +15492,12 @@ Entries:
   id: 1718
   time: '2026-01-01T14:13:20.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2919
+- author: NazrinNya
+  changes:
+    - type: Fix
+      message: >-
+        Reinforced plastitanium walls now actually more resistant than
+        plastitanium walls
+  id: 1719
+  time: '2026-01-01T14:28:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2913
