@@ -15600,3 +15600,16 @@ Entries:
   id: 1732
   time: '2026-01-01T18:49:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2921
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Apollo has been adjusted to act as mining laser.
+    - type: Tweak
+      message: PKA received burst mode.
+    - type: Tweak
+      message: Ore bags were buffed
+    - type: Tweak
+      message: Salvage lockers received extra gear
+  id: 1733
+  time: '2026-01-01T19:14:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2873
