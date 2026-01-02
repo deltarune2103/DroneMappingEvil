@@ -15640,3 +15640,14 @@ Entries:
   id: 1736
   time: '2026-01-01T19:21:58.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2866
+- author: NazrinNya
+  changes:
+    - type: Fix
+      message: Security Guard is assigned to Colonial staff, as intended.
+    - type: Tweak
+      message: Monolith entities received NVGs
+    - type: Fix
+      message: Fixed directional fan on Ant
+  id: 1737
+  time: '2026-01-02T00:11:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2923
