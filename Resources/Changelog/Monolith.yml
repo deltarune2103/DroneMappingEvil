@@ -16092,3 +16092,19 @@ Entries:
   id: 1783
   time: '2026-01-11T22:08:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3020
+- author: tonotom1
+  changes:
+    - type: Add
+      message: >-
+        Adds SRD and its ammo to research, in Advanced Tools. Print it from
+        protolathe and engifab.
+    - type: Add
+      message: Adds SRD and its ammo to scrap processor gacha. Enjoy your gamble.
+    - type: Add
+      message: >-
+        Adds SRD ammo production to scrap processor. This requires no science
+        but is extremely inefficient compared to what it would have costed if
+        materials were printed for the research recipe instead.
+  id: 1784
+  time: '2026-01-11T22:09:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3019
