@@ -16165,3 +16165,10 @@ Entries:
   id: 1791
   time: '2026-01-15T12:30:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3035
+- author: TheRex191
+  changes:
+    - type: Tweak
+      message: Guns now show no bullet in the chamber until cocked.
+  id: 1792
+  time: '2026-01-15T19:05:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3043
