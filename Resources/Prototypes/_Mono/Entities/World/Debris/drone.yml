@@ -6,6 +6,8 @@
     prototypes:
     - SpawnDroneBasicSmall
     - SpawnDroneBasicMedium
+    - SpawnDroneMPulsar
+    - SpawnDroneLance
 
 - type: entity
   id: MonoRamDroneSpawnerT2Inner
@@ -95,6 +97,20 @@
   components:
   - type: GridSpawner
     path: /Maps/_Mono/Shuttles/World/medusa.yml
+
+- type: entity
+  id: SpawnDroneMPulsar
+  parent: SpawnDroneBase
+  components:
+  - type: GridSpawner
+    path: /Maps/_Mono/Shuttles/World/mpulsar.yml
+
+- type: entity
+  id: SpawnDroneLance
+  parent: SpawnDroneBase
+  components:
+  - type: GridSpawner
+    path: /Maps/_Mono/Shuttles/World/lance.yml
 
 - type: entity
   id: SpawnDroneCrown
