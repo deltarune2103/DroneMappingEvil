@@ -16172,3 +16172,42 @@ Entries:
   id: 1792
   time: '2026-01-15T19:05:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3043
+- author: alin-but-real
+  changes:
+    - type: Add
+      message: support for combat mode music + faction-specific combatmode music
+    - type: Add
+      message: support for grid-specific music
+    - type: Add
+      message: support for biomes on space, FTL and expeditions
+    - type: Add
+      message: support for biome/grid descriptions, not just titles
+    - type: Add
+      message: option for separate volume for combat music
+    - type: Add
+      message: >-
+        option for varying seconds before combat mode music activates /
+        deactivates
+    - type: Add
+      message: inner/middle/outer ring biomes + music
+    - type: Add
+      message: CC and camelot music
+    - type: Add
+      message: combatmode basic, PDV and TSFMC music
+    - type: Add
+      message: FTL music
+    - type: Add
+      message: expedition music
+    - type: Add
+      message: descriptions for some select vessels
+    - type: Remove
+      message: >-
+        ship combat music (will come back at a later point when made to work
+        with this system & not overlapping)
+    - type: Remove
+      message: CombatMusicSystem.cs + friends (see above)
+    - type: Remove
+      message: GridNameSystem.cs (superceded by SpaceBiomeTextOverlay.cs)
+  id: 1793
+  time: '2026-01-15T21:03:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2981
